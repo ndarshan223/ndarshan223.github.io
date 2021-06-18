@@ -1,0 +1,24 @@
+p {
+    color:cadetblue;
+    width: 500px;
+    border: 1px solid black;
+}
+
+h1, h2 {
+    font-size: large;
+    line-height: 3;
+    text-align: center;
+
+}
+html {
+    background-color: #00539f;
+
+}
+
+body {
+    width: 1200px;
+    margin:0 auto;
+    background-color:floralwhite;
+    padding:0 20px 20px 20px;
+    border:5px cornflowerblue;
+}
